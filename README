@@ -1,0 +1,5 @@
+Cipher Java:
+
+This is a Java program to encrypt and decrypt messages using the Ceasar Cipher and the Vigenere Cipher.
+
+I still have to finish this. Encryption using Caesar is done. Implementing OOP for encryption and decryption functions.
